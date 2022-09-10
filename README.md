@@ -6,7 +6,7 @@ I'm a Software Engineering student from Bosnia. Besides programing, I enjoy film
 - 🔨 At the moment I'm working on steganography tool that will allow users to deploy Canary trap.
 - 💻 Third year student at the [Faculty of Electrical Engineering Banja Luka](https://etf.unibl.org/index.php/en/home)
 - <img width="20px" src="./resources/flash-cards.png?raw=true" />&nbsp;Recently I find myself using <i>Anki</i> on a daily basis.
-- 📚 Son zamanlarda  [Metro serisini okuyorum](https://www.amazon.com.tr/Metro-2033-Dmitry-Glukhovsky/dp/6059127347) 
+- 📚 I've been [reading the Metro series] lately(https://www.amazon.com.tr/Metro-2033-Dmitry-Glukhovsky/dp/6059127347 )
 - 📫 How to reach me: [@ozanbalc7e][twitter]
 
 ### Connect with me:
