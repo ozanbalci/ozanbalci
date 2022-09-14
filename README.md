@@ -1,7 +1,7 @@
 ### My status
 
 <img align="left" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=ozanbalci&count_private=true&show_icons=true&theme=radical">
-
+<br><br><br>
 
 <img width="35%" align="right" alt="Github" src="./resources/developer.gif" />
 
