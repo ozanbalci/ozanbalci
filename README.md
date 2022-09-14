@@ -1,11 +1,11 @@
 ### My status
 
 <img align="left" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=ozanbalci&count_private=true&show_icons=true&theme=radical">
-<br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 <img width="35%" align="right" alt="Github" src="./resources/developer.gif" />
 
-<br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ### Hi 👋
 I am a Culinary student in Turkey, I am interested in writing code, I share my own projects or beautiful projects that I have found in this percentage, if you have any projects, you can contact me. I also really like watching and editing movies.[youtube](https://www.youtube.com/channel/UCT5s4XKZ-xnTZldw2wI7Rvg)]
