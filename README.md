@@ -56,14 +56,13 @@ I am a student at the faculty of economics and administrative sciences in Turkey
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanbalci&layout=compact&langs_count=11)
 
 
-<br><br><br>
 ### My status
 
-<img align="left" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=ozanbalci&count_private=true&show_icons=true&theme=radical">
+<img align="left" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=Fadi002&count_private=true&show_icons=true&theme=radical">
 
 ---
 ### 📍 Profile Visitor Count
-<img align="left" alt="ChickenDevs' Stats" src="https://profile-counter.glitch.me/ozanbalci/count.svg">
+<img align="left" alt="ChickenDevs' Stats" src="https://profile-counter.glitch.me/Fadi002/count.svg">
 
 
 
