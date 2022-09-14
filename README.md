@@ -1,17 +1,16 @@
-- 👋 Hi, I’m @ozanbalci
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### My status
+
+<img align="left" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=ozanbalci&count_private=true&show_icons=true&theme=radical">
+
 
 <img width="35%" align="right" alt="Github" src="./resources/developer.gif" />
 
 ### Hi 👋
-I am a student at the faculty of economics and administrative sciences in Turkey. I'm struggling with coding when I'm bored, i enjoy playing games and writing novels
+I am a gastronomy student in Turkey, I am interested in writing code, I share my own projects or beautiful projects that I have found in this percentage, if you have any projects, you can contact me. I also really like watching movies and editing. [https://www.youtube.com/channel/UCT5s4XKZ-xnTZldw2wI7Rvg][youtube]
 
 - 🔨 I'm currently doing code tests on behalf of [Bunny CSGO](https://www.bunnycsgo.com).
 - 📚 I'm currently learning about cybersecurity.
-- 📫 How to reach me: [@JaredForce][twitter]
+- 📫 How to reach me: [@ozanbalc7][twitter]
 
 ### Connect with me:
 [<img align="left" alt="JaredForce | Twitter" title="Twitter" width="22px" src="./resources/twitter_logo.png?raw=true" />][twitter]
