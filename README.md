@@ -58,7 +58,7 @@ I am a student at the faculty of economics and administrative sciences in Turkey
 
 ### My status
 
-<img align="left" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=Fadi002&count_private=true&show_icons=true&theme=radical">
+<img align="left" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=ozanbalci&count_private=true&show_icons=true&theme=radical">
 
 ---
 ### 📍 Profile Visitor Count
