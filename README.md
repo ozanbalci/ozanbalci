@@ -55,12 +55,6 @@ I am a Culinary student in Turkey, I am interested in writing code, I share my o
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanbalci&layout=compact&langs_count=11)
 
 
-### My status
-
-<img align="left" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=ozanbalci&count_private=true&show_icons=true&theme=radical">
-
-
-
 
 <!---
 ozanbalci/ozanbalci is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
